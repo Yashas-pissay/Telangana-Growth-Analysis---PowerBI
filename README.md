@@ -6,10 +6,6 @@
 
 Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMGJlYTgxMWEtN2ZiMy00MTRiLWFmZmMtYzgyMjM1NTNhYjU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
-## NovyPro Dashboard
-
-Explore the live dashboard [here](https://www.novypro.com/project/atliq-hospitality-analysis--2)
-
 ## Project Overview
 
 Telangana is one of the fastest-growing states in India, and it has an open data policy. This means that all of the state's data is published online, making it easy to analyze and identify trends.
