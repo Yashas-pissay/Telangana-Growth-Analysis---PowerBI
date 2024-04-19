@@ -21,7 +21,7 @@ Our stakeholders wanted us to analyze Telangana's growth among different sectors
 
   * Power BI: Using the powerful data analysis tool Power BI, we were able to quantitatively analyze Telangana's growth among different sectors and provide useful insights to the Telangana government.
 
-  * ChatGPT: I used CGAT GPT and Bard to help us with our research and analysis.
+  * ChatGPT and Google: I used ChatGPT and Google to help us with our research and analysis.
 
 # Objective:
 * Explore Stamp Registration, Transportation and Ts-Ipass datasets. Understand their attributes, categories and time period.
