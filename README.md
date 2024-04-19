@@ -81,5 +81,6 @@ Our stakeholders wanted us to analyze Telangana's growth among different sectors
 * Venu Panjarla (Open Data Telangana)
   
 ### 𝗙𝗿𝗼𝗺 𝗖𝗼𝗱𝗲𝗕𝗮𝘀𝗶𝗰𝘀:
-* Dhaval Patel * Hemanand Vadivel
+* Dhaval Patel
+* Hemanand Vadivel
 
