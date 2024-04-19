@@ -24,10 +24,10 @@ Our stakeholders wanted us to analyze Telangana's growth among different sectors
   * ChatGPT: I used CGAT GPT and Bard to help us with our research and analysis.
 
 # Objective:
-• Explore Stamp Registration, Transportation and Ts-Ipass datasets. Understand their attributes, categories and time period.
-• Analyze trends and patterns within each department.
-• Identify growth opportunities and areas needing attention.
-• Find correlation among these departments and report the overall growth of the state through insights and relevant visuals such as shape maps.
+* Explore Stamp Registration, Transportation and Ts-Ipass datasets. Understand their attributes, categories and time period.
+* Analyze trends and patterns within each department.
+* Identify growth opportunities and areas needing attention.
+* Find correlation among these departments and report the overall growth of the state through insights and relevant visuals such as shape maps.
 
 ## Top Insight:
 1.  After the implementation of e-stamp, it can be clearly seen that the number of e-stamp has increased. The number of document registrations has also increased, but not as significantly as the number of e-Stamp challans.
